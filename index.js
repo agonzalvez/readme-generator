@@ -72,7 +72,7 @@ ${answers.description}
 - [Usage](#usage)
 - [License](#license)
 - [Contributors](#contributors)
-- [Tests](#test)
+- [Testing](#test)
 - [Questions](#questions)
 ## Installation
 ${answers.installation}
@@ -82,7 +82,7 @@ ${answers.installation}
 This application is under the ${answers.license} license.  
 ## Contributors
 ${answers.contributors}.
-## Tests
+## Testing
 This application was tested using ${answers.test}
 ## Questions
 For more information, please visit [GitHub Profile](https://github.com/${answers.github}/).  
