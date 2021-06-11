@@ -91,9 +91,9 @@ ${answers.installation}
 ## License
 This application is under the ${answers.license} license.  
 ## Contributing
-${answers.contributing}.
+${answers.contributors}.
 ## Tests
-This application was tested using "${answers.test}"
+This application was tested using ${answers.test}
 ## Questions
 For more information, please visit [GitHub Profile](https://github.com/${answers.github}/).  
 For any questions, you may email me at ${answers.email}.`
