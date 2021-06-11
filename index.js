@@ -15,11 +15,6 @@ inquirer
         },
         {
             type: "input",
-            name: "usage",
-            message: "What is the purpose of this app/project?",
-        },
-        {
-            type: "input",
             name: "installation",
             message: "Please provide steps for installation?",
         },
