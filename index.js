@@ -80,7 +80,7 @@ ${answers.installation}
 [Click](${answers.video}) this link watch video walkthrough for this app. 
 ## License
 This application is under the ${answers.license} license.  
-## Contributing
+## Contributors
 ${answers.contributors}.
 ## Tests
 This application was tested using ${answers.test}
