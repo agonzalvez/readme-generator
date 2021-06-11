@@ -25,11 +25,6 @@ inquirer
         },
         {
             type: "input",
-            name: "features",
-            message: "What are its features?",
-        },
-        {
-            type: "input",
             name: "test",
             message: "How did you test this application?",   
         },
